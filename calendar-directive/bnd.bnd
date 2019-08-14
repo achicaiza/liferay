@@ -1,0 +1,6 @@
+Bundle-Name: calendar-directive
+Bundle-SymbolicName: calendar.directive
+Bundle-Version: 1.0.0
+-includeresource: package.json
+-plugin.npm: com.liferay.ant.bnd.npm.NpmAnalyzerPlugin
+Liferay-JS-Config: /META-INF/resources/config.js

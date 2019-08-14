@@ -1,0 +1,5 @@
+Bundle-Name: External libs
+Bundle-SymbolicName: external-libs
+-includeresource: package.json
+-plugin.npm: com.liferay.ant.bnd.npm.NpmAnalyzerPlugin
+Liferay-JS-Config: /META-INF/resources/config.js
